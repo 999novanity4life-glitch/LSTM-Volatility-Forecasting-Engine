@@ -1,4 +1,5 @@
 ## Creator/Dev: tubakhxn
+<img width="2958" height="1504" alt="image" src="https://github.com/user-attachments/assets/1a9b52be-4dd5-4e2a-b4c8-793c31229f18" />
 
 # LSTM Volatility Forecasting Engine
 
@@ -39,3 +40,4 @@ This project is a fully functional Streamlit dashboard for forecasting financial
 ---
 
 For questions or improvements, feel free to fork, star, or open issues!
+
